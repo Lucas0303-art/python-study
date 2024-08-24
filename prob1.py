@@ -10,3 +10,34 @@
 
 # 예시 출력:
 # 결과: 50
+# a = "5"
+# b=5
+# operator="+"
+# if operator="+1"
+
+
+# input two number one operator
+# two number 
+a=6 # input
+b=10 # input 
+# one operator
+operator = "+"
+
+# +,-,*,/,check
+# + check
+if operator=="+":
+    # + 연산 
+
+# - check
+
+    # - 연산
+
+# * check
+
+    # * 연산
+
+# / check
+
+    # /연산
+    
+# wrong operator 
