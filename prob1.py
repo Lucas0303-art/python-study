@@ -21,7 +21,7 @@
 a=6 # input
 b=10 # input 
 # one operator
-operator = "-"
+operator=input('operator=')
 
 result=0
 # +,-,*,/,check
