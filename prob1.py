@@ -21,23 +21,27 @@
 a=6 # input
 b=10 # input 
 # one operator
-operator = "/"
+operator = "-"
 
+result=0
 # +,-,*,/,check
 # + check
 if operator=="+":
     # + 연산 
-    print("result=",a+b)
+    result=a+b
 # - check
 elif operator=="-":
     # - 연산
-    print("result=",a-b)
+    result=a-b
 # * check
 elif operator=="*":
     # * 연산
-    print("reult=",a*b)
+    result=a*b
 # / check
 elif operator=="/":
     # /연산
-    print("result=",a/b)
+    result=a/b
 # wrong operator 
+
+#calcualtor anwser
+print(a,operator,b,"=",result) 
