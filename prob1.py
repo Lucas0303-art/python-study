@@ -42,6 +42,7 @@ elif operator=="/":
     # /연산
     result=a/b
 # wrong operator 
-
+else:
+    print('%wrong')
 #calcualtor anwser
 print(a,operator,b,"=",result) 
