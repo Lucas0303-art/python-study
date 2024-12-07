@@ -12,8 +12,8 @@ b = int(input('type in number'))
 if a>b:
     print('>')
 
-if a<b:
+elif a<b:
     print('<')
 
-if a==b:
+elif a==b:
     print('=')
